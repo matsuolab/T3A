@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+tqdm = "*"
+einops = "*"
+python-dotenv = "*"
+rarfile = "*"
+scipy = "*"
+jupyterlab = "*"
+wilds = "*"
+gdown = "*"
+wget = "*"
+timm = "*"
+
+[dev-packages]
+pipenv = "*"
+flake8 = "*"
+autopep8 = "*"
+wandb = "*"
+jupyter = "*"
+
+[requires]
+python_version = "3.7"
