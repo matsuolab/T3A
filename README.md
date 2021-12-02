@@ -1,6 +1,6 @@
 # Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization
 
-This codebase is the official implementation of `Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization (NeurIPS2021, Spotlight, [url](<https://openreview.net/forum?id=e_yvNqkJKAW&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2021%2FConference%2FAuthors%23your-submissions)>). 
+This codebase is the official implementation of `Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization` (NeurIPS2021, Spotlight, [url](<https://openreview.net/forum?id=e_yvNqkJKAW&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2021%2FConference%2FAuthors%23your-submissions)>). 
 This codebase is mainly based on [DomainBed](https://github.com/facebookresearch/DomainBed), with following modifications:
 
 * enable to use various backbone networks including Big Transfer (BiT), Vision Transformers (ViT, DeiT, HViT), and MLP-Mixer. 
